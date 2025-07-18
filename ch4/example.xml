@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bioseq-set>
+  <Organism>Homo sapiens</Organism>
+  <CommonName>human</CommonName>
+  <Chromosome>6</Chromosome>
+  <Location>6p22.1</Location>
+  <Sequence>ATGCGTACGTTAGCGT...</Sequence>
+  <Publications>
+    <Publication>
+      <PMID>38946372</PMID>
+      <Title>Genetic study of a rare Chinese pedigree.</Title>
+    </Publication>
+    <Publication>
+      <PMID>38809622</PMID>
+      <Title>HLA-A, HLA-B, and HLA-DRB1.</Title>
+    </Publication>
+  </Publications>
+</Bioseq-set>
+

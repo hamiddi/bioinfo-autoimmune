@@ -1,0 +1,11 @@
+sample-id,forward-absolute-filepath,reverse-absolute-filepath
+SRR12714143,abs_path/SRR12714143_1.fastq.gz,abs_path/SRR12714143_2.fastq.gz
+SRR12714147,abs_path/SRR12714147_1.fastq.gz,abs_path/SRR12714147_2.fastq.gz
+SRR12714128,abs_path/SRR12714128_1.fastq.gz,abs_path/SRR12714128_2.fastq.gz
+SRR12714131,abs_path/SRR12714131_1.fastq.gz,abs_path/SRR12714131_2.fastq.gz
+SRR12714132,abs_path/SRR12714132_1.fastq.gz,abs_path/SRR12714132_2.fastq.gz
+SRR12714136,abs_path/SRR12714136_1.fastq.gz,abs_path/SRR12714136_2.fastq.gz
+SRR12714139,abs_path/SRR12714139_1.fastq.gz,abs_path/SRR12714139_2.fastq.gz
+SRR12714140,abs_path/SRR12714140_1.fastq.gz,abs_path/SRR12714140_2.fastq.gz
+SRR12714141,abs_path/SRR12714141_1.fastq.gz,abs_path/SRR12714141_2.fastq.gz
+SRR12714142,abs_path/SRR12714142_1.fastq.gz,abs_path/SRR12714142_2.fastq.gz

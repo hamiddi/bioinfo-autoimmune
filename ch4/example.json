@@ -1,0 +1,18 @@
+{
+  "Organism": "Homo sapiens",
+  "CommonName": "human",
+  "Chromosome": "6",
+  "Location": "6p22.1",
+  "Sequence": "ATGCGTACGTTAGCGT...",
+  "Publications": [
+    {
+      "PMID": "38946372",
+      "Title": "Genetic study of a rare … the HLA-A/C loci in both parents."
+    },
+    {
+      "PMID": "38809622",
+      "Title": "HLA-A, HLA-B, and HLA-DRB1 … in an Iranian population."
+    }
+  ]
+}
+
